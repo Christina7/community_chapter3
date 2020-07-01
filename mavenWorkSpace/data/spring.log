@@ -1,0 +1,11 @@
+2020-06-11 12:37:12.513  INFO 30604 --- [main] com.newcoder.community.LoggerTests       : Starting LoggerTests on QLD2IQELGCEKCDH with PID 30604 (started by Administrator in F:\mavenWorkSpace\chapter6\community)
+2020-06-11 12:37:12.515 DEBUG 30604 --- [main] com.newcoder.community.LoggerTests       : Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-11 12:37:12.533  INFO 30604 --- [main] com.newcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-06-11 12:37:15.336  INFO 30604 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 12:37:15.462  INFO 30604 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-06-11 12:37:15.840  INFO 30604 --- [main] com.newcoder.community.LoggerTests       : Started LoggerTests in 4.261 seconds (JVM running for 5.626)
+2020-06-11 12:37:16.318 DEBUG 30604 --- [main] com.newcoder.community.LoggerTests       : debug log
+2020-06-11 12:37:16.318  INFO 30604 --- [main] com.newcoder.community.LoggerTests       : info log
+2020-06-11 12:37:16.318  WARN 30604 --- [main] com.newcoder.community.LoggerTests       : warn log
+2020-06-11 12:37:16.318 ERROR 30604 --- [main] com.newcoder.community.LoggerTests       : error log
+2020-06-11 12:37:16.330  INFO 30604 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
